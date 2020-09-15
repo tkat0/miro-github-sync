@@ -1,0 +1,13 @@
+{
+  "name": "web-plugin",
+  "collaborators": [
+    "tkat0 <tkato.dev@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "web_plugin_bg.wasm",
+    "web_plugin.js"
+  ],
+  "module": "web_plugin.js",
+  "sideEffects": false
+}
